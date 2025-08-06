@@ -1,0 +1,13 @@
+2025-08-06 10:28:21.476839 | Roast | Input: hola | Output: You said: *hola*... and still thought you’d escape a roast? 😏
+2025-08-06 10:28:33.622224 | Roast | Input: Surprise me! | Output: You said: *Surprise me!*... and still thought you’d escape a roast? 😏
+2025-08-06 10:28:59.178597 | Roast | Input: hello | Output: You said: *hello*... and still thought you’d escape a roast? 😏
+2025-08-06 10:29:08.155431 | Roast | Input: hello | Output: You're as dramatic as plain yogurt. 🥛
+2025-08-06 10:29:35.735566 | Roast | Input: I’m coding | Output: You're the human version of a loading bar. 🔄
+2025-08-06 10:29:55.858514 | Compliment | Input: Why is AI so weird | Output: Bad days pass — your light doesn’t. 🌅
+2025-08-06 10:30:20.331536 | Compliment | Input: hello | Output: You're like a class that just works. 🏷️
+2025-08-06 10:30:41.107607 | Compliment | Input: hello im jenifer | Output: You’re calm like a well-handled exception. 🧘‍♂️
+2025-08-06 10:30:48.258432 | Compliment | Input: hello im jenifer | Output: You said: *hello im jenifer*... and still thought you’d escape a roast? 😏
+2025-08-06 10:31:44.582590 | Compliment | Input: hhjj | Output: You said: *hhjj*... and still thought you’d escape a roast? 😏
+2025-08-06 10:32:28.859403 | Compliment | Input: hhjj | Output: You said: *hhjj*... and still thought you’d escape a roast? 😏
+2025-08-06 10:33:38.708369 | Compliment | Input: I’m coding | Output: Even when quiet, you radiate good energy. 🌈
+2025-08-06 10:34:51.903263 | Roast | Input: Why is AI so weird | Output: Even your shadow left for better company. 🌑
