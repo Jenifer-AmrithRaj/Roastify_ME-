@@ -4,3 +4,4 @@ gTTS
 pandas
 numpy
 requests
+nltk
